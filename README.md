@@ -77,7 +77,7 @@ To run the project:
 
 1. Open the Jupyter Notebook:
    ```bash
-   jupyter notebook P2_1_RNNS_AITANA_MARTINEZ.ipynb
+   jupyter notebook rnns_sequence_modelling.ipynb
 2. Execute the notebook cells sequentially to reproduce the full workflow,
 including data preprocessing, model training, and evaluation.
 
